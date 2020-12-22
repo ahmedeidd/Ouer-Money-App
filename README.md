@@ -4,7 +4,7 @@ It's a flutter application that save our money by Using Provider Pattern and sqf
 
 ## some vidoes
 <!-- record_1 -->
-![original Design](https://github.com/ahmedeidd/News_EID_app/blob/master/screenshots/record_1.gif "Design")
+![original Design](https://github.com/ahmedeidd/Ouer-Money-App/blob/main/screenshots/record_1.gif "Design")
 
 
 ## Screenshots
